@@ -1,1 +1,1 @@
-# JavaDesignPatterns exercises
+# Java Design Patterns exercises
