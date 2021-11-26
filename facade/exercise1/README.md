@@ -21,4 +21,3 @@ Se necesita visualizar por pantalla qué vuelos y hoteles están disponibles. Lo
 de búsqueda son solamente la ciudad del hotel (String), que es la misma que la del destino
 del vuelo, y la fecha desde-donde, que es igual para la búsqueda de vuelo y hotel.
 El pedido a la fachada por lo tanto en una sola llamada incluye los otros dos.
-¡Mucho
